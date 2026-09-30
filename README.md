@@ -1,274 +1,85 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=2500&pause=700&color=FF1744&center=true&vCenter=true&width=700&lines=%3E+ACCESSING+DAN4IKK3...;%3E+SYSTEM+ONLINE;%3E+WELCOME+TO+MY+PROFILE;%3E+%E8%B5%A4%E3%81%84%E7%96%BE%E9%A2%A8" alt="Typing SVG" />
+<img src="./assets/hero.svg" width="100%" alt="dan4ikk3">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:160008,100:ff1744&height=3&section=header" width="100%"/>
+<img src="./assets/anime-banner.svg" width="88%" alt="Anime artwork">
 
-### `// DAN4IKK3.exe`
+<br><br>
 
-> **「壊れた世界でも、コードは動く。」**
-> *Even in a broken world, the code still runs.*
+<h2>dan4ikk3</h2>
 
-</div>
+<p>
+<b>Developer · Linux enthusiast · Game & tool maker</b>
+</p>
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  ██████╗  █████╗ ███╗   ██╗██╗  ██╗██╗██╗  ██╗██╗  ██╗    ║
-║  ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██║██║ ██╔╝██║ ██╔╝    ║
-║  ██║  ██║███████║██╔██╗ ██║█████╔╝ ██║█████╔╝ █████╔╝     ║
-║  ██║  ██║██╔══██║██║╚██╗██║██╔═██╗ ██║██╔═██╗ ██╔═██╗     ║
-║  ██████╔╝██║  ██║██║ ╚████║██║  ██╗██║██║  ██╗██║  ██╗    ║
-║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-`[ SYSTEM STATUS ]`
-
-|   MODULE   |      STATUS      |
-| :--------: | :--------------: |
-|  `CODING`  | `████████████░░` |
-|   `LINUX`  | `█████████████░` |
-|  `GAMING`  | `███████████░░░` |
-| `LEARNING` | `██████████████` |
-
-</div>
-
----
-
-## `01 // ABOUT_ME`
-
-<div align="center">
-
-╔══════════════════════════════════════════════════════════════╗
-
-### `> WHO_AM_I?`
-
-**Developer • Linux User • Gamer • Creator**
-
-I'm interested in building things, breaking things,
-and figuring out **why they broke in the first place.**
-
-I like Linux, game development, automation,
-graphics and experimenting with random ideas.
-
-```text
-┌─[ DAN4IKK3@github ]
-│
-├── OS        :: Linux
-├── EDITOR    :: VS Code / Neovim
-├── SHELL     :: Bash
-├── FOCUS     :: Development + Experiments
-└── STATUS    :: █ ONLINE
-```
-
-╚══════════════════════════════════════════════════════════════╝
-
-</div>
-
----
-
-## `02 // SKILLS`
-
-<div align="center">
-
-### `LANGUAGES & PLATFORMS`
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### `C#`
-
-`████████████`
-
-</td>
-
-<td align="center" width="25%">
-
-### `Lua`
-
-`██████████░░`
-
-</td>
-
-<td align="center" width="25%">
-
-### `Bash`
-
-`██████████░░`
-
-</td>
-
-<td align="center" width="25%">
-
-### `.NET`
-
-`██████████░░`
-
-</td>
-</tr>
-</table>
+<p>
+I like building things, breaking them, and figuring out why they broke.
+</p>
 
 <br>
 
-### `INFRASTRUCTURE`
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### `Nginx`
-
-`▰ ▰ ▰ ▰ ▰`
-
-</td>
-
-<td align="center" width="50%">
-
-### `SQLite`
-
-`▰ ▰ ▰ ▰ ▰`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### `GRAPHICS & DESIGN`
-
-<table>
-<tr>
-<td align="center">
-
-### `Figma`
-
-`◈`
-
-</td>
-
-<td align="center">
-
-### `Krita`
-
-`◈`
-
-</td>
-
-<td align="center">
-
-### `Blender`
-
-`◈`
-
-</td>
-
-<td align="center">
-
-### `Aseprite`
-
-`◈`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### `TOOLS`
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### `Git`
-
-`[ GIT ]`
-
-</td>
-
-<td align="center" width="50%">
-
-### `GitHub`
-
-`[ GITHUB ]`
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/dan4ikk3">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 
 </div>
 
----
-
-## `03 // CURRENT_MODE`
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  DAN4IKK3@SYSTEM:~$ whoami                                │
-│                                                            │
-│  > developer                                               │
-│                                                            │
-│  DAN4IKK3@SYSTEM:~$ status                                │
-│                                                            │
-│  > learning...                                             │
-│  > building...                                             │
-│  > experimenting...                                        │
-│                                                            │
-│  DAN4IKK3@SYSTEM:~$ █                                      │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
-
-</div>
+<br>
 
 ---
 
-## `04 // PROJECTS`
-
 <div align="center">
+
+## <img src="./assets/red-line.svg" width="180"> Skills <img src="./assets/red-line.svg" width="180">
+
+<br><br>
 
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="180">
 
-### `◈ GAME DEV`
+<img src="./assets/skills/csharp.svg" width="90">
 
-```text
-┌─────────────────┐
-│  GAME PROJECTS  │
-│                 │
-│  > development  │
-│  > experiments  │
-│  > mods         │
-└─────────────────┘
-```
+<br>
+
+<b>C#</b>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="180">
 
-### `◈ LINUX`
+<img src="./assets/skills/lua.svg" width="90">
 
-```text
-┌─────────────────┐
-│  LINUX PROJECTS │
-│                 │
-│  > scripts      │
-│  > automation   │
-│  > servers      │
-└─────────────────┘
-```
+<br>
+
+<b>Lua</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/dotnet.svg" width="90">
+
+<br>
+
+<b>.NET</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/bash.svg" width="90">
+
+<br>
+
+<b>Bash</b>
 
 </td>
 
@@ -276,35 +87,87 @@ graphics and experimenting with random ideas.
 
 <tr>
 
-<td width="50%" align="center">
+<td align="center" width="180">
 
-### `◈ CREATIVE`
+<img src="./assets/skills/nginx.svg" width="90">
 
-```text
-┌─────────────────┐
-│  CREATIVE       │
-│                 │
-│  > 3D           │
-│  > pixel art    │
-│  > design       │
-└─────────────────┘
-```
+<br>
+
+<b>Nginx</b>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="180">
 
-### `◈ EXPERIMENTS`
+<img src="./assets/skills/sqlite.svg" width="90">
 
-```text
-┌─────────────────┐
-│  EXPERIMENTS    │
-│                 │
-│  > random ideas │
-│  > prototypes   │
-│  > research     │
-└─────────────────┘
-```
+<br>
+
+<b>SQLite</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/linux.svg" width="90">
+
+<br>
+
+<b>Linux</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/git.svg" width="90">
+
+<br>
+
+<b>Git</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/figma.svg" width="90">
+
+<br>
+
+<b>Figma</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/krita.svg" width="90">
+
+<br>
+
+<b>Krita</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/blender.svg" width="90">
+
+<br>
+
+<b>Blender</b>
+
+</td>
+
+<td align="center" width="180">
+
+<img src="./assets/skills/aseprite.svg" width="90">
+
+<br>
+
+<b>Aseprite</b>
 
 </td>
 
@@ -313,57 +176,70 @@ graphics and experimenting with random ideas.
 
 </div>
 
----
-
-## `05 // TERMINAL`
+<br>
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║  root@dan4ikk3                                              ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  $ neofetch                                                  ║
-║                                                              ║
-║       ████████╗  OS      :: Linux                            ║
-║       ╚══██╔══╝  SHELL   :: Bash                            ║
-║          ██║     CODE    :: C# / Lua                        ║
-║          ██║     TOOLS   :: Git / GitHub                    ║
-║          ██║     MODE    :: BUILD                           ║
-║          ╚═╝                                                 ║
-║                                                              ║
-║  $ echo "keep building."                                    ║
-║                                                              ║
-║  keep building.                                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="./assets/anime-divider.svg" width="100%">
 
 </div>
 
----
+<br>
 
-## `06 // CONNECT`
-
-<div align="center">
+## Projects
 
 <table>
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### `GITHUB`
+<img src="./assets/projects/fish-station.svg" width="100%">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DAN4IKK3-ff1744?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dan4ikk3)
+### Fish Station
+
+Community development for **Space Station 14**.
+
+C# · .NET · Game Development
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-### `DISCORD`
+<img src="./assets/projects/linux.svg" width="100%">
 
-[![Discord](https://img.shields.io/badge/Discord-DAN4IKK3-ff1744?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/)
+### Linux Setup
+
+My personal Linux environment, configs and experiments.
+
+Arch Linux · Hyprland · Bash · NVIDIA
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<img src="./assets/projects/voice-ai.svg" width="100%">
+
+### Voice AI
+
+Experiments with voice cloning, TTS and voice conversion.
+
+Python · AI · Audio
+
+</td>
+
+<td width="50%" valign="top">
+
+<img src="./assets/projects/homelab.svg" width="100%">
+
+### HomeLab
+
+Self-hosted services and infrastructure.
+
+Debian · Nginx · Docker · Tailscale
 
 </td>
 
@@ -372,20 +248,42 @@ graphics and experimenting with random ideas.
 
 <br>
 
-```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│        赤い光が、まだ消えていない。          │
-│                                              │
-│        THE RED LIGHT IS STILL ON.            │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+<div align="center">
+
+<img src="./assets/anime-wide.svg" width="100%" alt="red anime artwork">
+
+<br><br>
+
+## GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=dan4ikk3&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ff1744&icon_color=ff1744&text_color=d0d0d0">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1744,50:160008,100:050505&height=3&section=footer" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dan4ikk3&hide_border=true&background=0d0d0d&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideLabels=d0d0d0&dates=777777">
 
-`// END OF TRANSMISSION`
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%">
+
+<br><br>
+
+<a href="https://github.com/dan4ikk3">
+<img src="./assets/github.svg" width="45">
+</a>
+
+   
+
+<a href="https://discord.com/">
+<img src="./assets/discord.svg" width="45">
+</a>
+
+<br><br>
+
+<sub>Built with code, caffeine and questionable decisions.</sub>
 
 </div>
