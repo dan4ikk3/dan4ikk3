@@ -9,9 +9,9 @@
 
 ## Обо мне
 
-Пишу на **C# / .NET**, изучаю Linux и участвую в разработке игровых проектов на базе Space Station 14.
+Пишу на **C# / .NET**, продвинутый пользователь Linux, участвую в разработке игровых проектов на базе Space Station 14.
 
-<img src="assets/skills.svg" alt="Мои навыки" width="100%" />
+<img src="assets/skills.svg" alt="Skills" width="100%" />
 
 ## Проекты
 
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-<sub>Спасибо, что заглянул!</sub>
+<sub>Брбрбрбрбр</sub>
 
 </div>
