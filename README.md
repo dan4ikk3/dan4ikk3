@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+Hi;I'm+dan4ikk3%2C+Csharp+developer+%E2%9C%A9" width="80%" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=23&duration=4000&pause=600&color=AA1390&background=DBFF0000&vCenter=true&width=600&height=100&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%D0%AF+dan4ikk3%2C+%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+C%23+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-dan4ikk3-ff3157?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan4ikk3)
