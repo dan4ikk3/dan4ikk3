@@ -11,7 +11,7 @@
 
 Пишу на **C# / .NET**, продвинутый пользователь Linux, участвую в разработке игровых проектов на базе Space Station 14.
 
-<img src="assets/skills.svg" alt="Skills" width="100%" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ## Проекты
 
