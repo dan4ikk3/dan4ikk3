@@ -18,22 +18,3 @@
 <div align="center" style="margin-top: 15px;">
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
 </div>
-
-<br/>
-
-<!-- Запоминающийся блок: Авто-обновляемая статистика и динамическое время -->
-<div align="center">
-  <img src="https://vercel.app" alt="dan4ikk's GitHub stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://vercel.app" width="100%"/>
-</div>
-
-<!-- Блок контактов снизу -->
-<div align="center" style="margin-top: 15px;">
-  <a href="https://discord.com">
-    <img src="https://shields.io" alt="Discord" />
-  </a>
-</div>
