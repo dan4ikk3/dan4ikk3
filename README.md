@@ -1,61 +1,48 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="dan4ikk3 — red anime developer banner" width="100%" />
+<img src="https://backiee.com/static/wallpapers/1920x1080/379747.jpg" alt="Аниме-арт в красно-чёрном киберпанк-стиле" width="100%" />
+
+<h2>dan4ikk3</h2>
+<p><i>Разработка · Linux · игровые проекты</i></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-dan4ikk3-ef2348?style=flat-square&logo=github&logoColor=white)](https://github.com/dan4ikk3)
+[![Просмотры профиля](https://komarev.com/ghpvc/?username=dan4ikk3&style=flat-square&color=8f102b&label=просмотры)](https://github.com/dan4ikk3)
+
+</div>
+
+## Обо мне
+
+Пишу на **C# / .NET**, изучаю Linux и участвую в разработке игровых проектов на базе Space Station 14.
+
+<img src="assets/skills.svg" alt="Мои навыки" width="100%" />
+
+## Проекты
+
+<div align="center">
+
+<a href="https://github.com/makura-games/lust-station"><img src="assets/projects/lust-station.svg" alt="Ласт Стейшн" width="100%" /></a>
+
+<a href="https://github.com/makura-games/fish-station"><img src="assets/projects/fish-station.svg" alt="Рыбья станция" width="100%" /></a>
+
+<a href="https://github.com/makura-games/sunrise-station"><img src="assets/projects/sunrise-station.svg" alt="Санрайз" width="100%" /></a>
+
+</div>
+
+## Статистика
+
+<div align="center">
+
+<a href="https://github.com/dan4ikk3"><img height="170" src="https://github-readme-stats.vercel.app/api?username=dan4ikk3&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0d0b10&title_color=ff4564&icon_color=ff4564&text_color=e8dfe4&ring_color=ff4564&locale=ru" alt="Статистика GitHub" /></a>
+<a href="https://github.com/dan4ikk3"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan4ikk3&layout=compact&langs_count=6&hide_border=true&bg_color=0d0b10&title_color=ff4564&text_color=e8dfe4&locale=ru" alt="Используемые языки программирования" /></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-dan4ikk3-ff3157?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan4ikk3)
-[![Profile Views](https://komarev.com/ghpvc/?username=dan4ikk3&style=for-the-badge&color=9d1234&label=PROFILE+VIEWS)](https://github.com/dan4ikk3)
+<img src="https://streak-stats.demolab.com?user=dan4ikk3&hide_border=true&background=0d0b10&ring=ff4564&fire=ff4564&currStreakLabel=ff4564&sideLabels=e8dfe4&currStreakNum=e8dfe4&sideNums=e8dfe4&dates=8e858b&locale=ru" alt="Активность на GitHub" />
 
 </div>
 
-## whoami
-
-```text
-dan4ikk3 — developer, Linux tinkerer, and game systems enthusiast.
-I like building things, breaking them, and figuring out why they broke.
-```
-
-- 🔻 Working with **C# / .NET**, scripts, and game systems.
-- 🐧 Running and customizing **Linux** setups.
-- 🛰️ Contributing to **Space Station 14** community development.
-- 🎨 Interested in design, 3D, pixel art, and audio/AI experiments.
-
-<img src="assets/skills.svg" alt="Skills: C sharp, .NET, Lua, Bash, Linux, Git, Nginx, SQLite, Figma, Krita, Blender and Aseprite" width="100%" />
-
-## projects
-
 <div align="center">
 
-<a href="https://github.com/dan4ikk3/fish-station"><img src="assets/projects/fish-station.svg" alt="Fish Station — Space Station 14 community development" width="100%" /></a>
-
-<img src="assets/projects/linux.svg" alt="Linux setup — Arch, Hyprland, Bash" width="100%" />
-
-<img src="assets/projects/voice-ai.svg" alt="Voice AI — speech synthesis and conversion experiments" width="100%" />
-
-<img src="assets/projects/homelab.svg" alt="Homelab — Debian, Nginx, Tailscale and self-hosted services" width="100%" />
-
-</div>
-
-## github stats
-
-<div align="center">
-
-<a href="https://github.com/dan4ikk3"><img height="165" src="https://github-readme-stats.vercel.app/api?username=dan4ikk3&show_icons=true&hide_border=true&bg_color=09090c&title_color=ff3157&icon_color=ff3157&text_color=e8dce1&ring_color=ff3157" alt="GitHub statistics" /></a>
-<a href="https://github.com/dan4ikk3"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan4ikk3&layout=compact&hide_border=true&bg_color=09090c&title_color=ff3157&text_color=e8dce1" alt="Most used languages" /></a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dan4ikk3&hide_border=true&background=09090c&ring=ff3157&fire=ff3157&currStreakLabel=ff3157&sideLabels=e8dce1&currStreakNum=e8dce1&sideNums=e8dce1&dates=8c7b83" alt="GitHub contribution streak" />
-
-</div>
-
-## contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff3157?style=flat-square&logo=github&logoColor=white)](https://github.com/dan4ikk3)
-
-<img src="assets/footer.svg" alt="Code, create, repeat" width="100%" />
+<sub>Спасибо, что заглянул!</sub>
 
 </div>
