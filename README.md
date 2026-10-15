@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=2000&pause=100&color=AA1390&background=DBFF0000&center=true&vCenter=true&width=900&height=90&lines=%E2%AC%87+%E2%AC%87+%E2%AC%87;About+me;%E2%AC%87+%E2%AC%87+%E2%AC%87;About+me;%E2%AC%87+%E2%AC%87+%E2%AC%87;About+me;%E2%AC%87+%E2%AC%87+%E2%AC%87" alt="Typing SVG" /></a>
 </div>
 
-<!-- Блок с информацией (без рамки) -->
+<!-- Блок с информацией -->
 <div align="left">
 <pre>
 💼 dan4ikk • C# / .NET • Разработчик • Продвинутый пользователь Linux<br/>
 💻 Системное программирование • DevOps • Инфраструктура<br/>
 📖 Архитектура программного обеспечения • Геймдев<br/>
-🎮 Space Station 14 • Код • Игры •<br/>
+🎮 Space Station 14 • Код • Игры<br/>
 </pre>
 </div>
 
@@ -19,14 +19,20 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
 </div>
 
-<div align="center">
-  <sub>Брбрбрбрбр</sub>
-</div>
-
 <br/>
 
-<!-- Блок контактов снизу -->
+<!-- Запоминающийся блок: Авто-обновляемая статистика и динамическое время -->
 <div align="center">
+  <img src="https://vercel.app" alt="dan4ikk's GitHub stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img src="https://vercel.app" width="100%"/>
+</div>
+
+<!-- Блок контактов снизу -->
+<div align="center" style="margin-top: 15px;">
   <a href="https://discord.com">
     <img src="https://shields.io" alt="Discord" />
   </a>
