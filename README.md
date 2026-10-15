@@ -1,12 +1,9 @@
 <div align="center">
 
-<img src="https://backiee.com/static/wallpapers/1920x1080/379747.jpg" alt="Аниме-арт в красно-чёрном киберпанк-стиле" width="100%" />
+<br/>
 
-<h2>dan4ikk3</h2>
-<p><i>Разработка · Linux · игровые проекты</i></p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-dan4ikk3-ef2348?style=flat-square&logo=github&logoColor=white)](https://github.com/dan4ikk3)
-[![Просмотры профиля](https://komarev.com/ghpvc/?username=dan4ikk3&style=flat-square&color=8f102b&label=просмотры)](https://github.com/dan4ikk3)
+[![GitHub](https://img.shields.io/badge/GitHub-dan4ikk3-ff3157?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dan4ikk3)
+[![Profile Views](https://komarev.com/ghpvc/?username=dan4ikk3&style=for-the-badge&color=9d1234&label=PROFILE+VIEWS)](https://github.com/dan4ikk3)
 
 </div>
 
